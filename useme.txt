@@ -1,0 +1,21 @@
+Garamond
+Gill Sans
+Cambria
+Constantia
+Lato
+Didot
+Helvetica
+Georgia
+Avenir
+
+### WORST
+Times New Roman
+Futura
+Arial
+Courier
+Brush Script
+Comic Sans
+Century Gothic
+Papyrus
+Impact
+Trajan Pro
